@@ -8,8 +8,4 @@ let count1 = 0
         }
     }
    
-    if (count1>2){
-        console.log("It is prime")
-    }else{
-        console.log("It is not prime")
-    }
+    
