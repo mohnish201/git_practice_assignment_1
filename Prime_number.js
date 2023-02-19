@@ -7,5 +7,5 @@ let count1 = 0
             count1++
         }
     }
-   
    (count==2)? console.log("Prime"):console.log("Not Prime")
+
